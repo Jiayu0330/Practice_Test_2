@@ -1,0 +1,29 @@
+{
+  "colors":["red","blue","green","orange","black",
+  "cyan","purple","grey","white","silver","coral"],
+  "subjects":[{
+  "name":"bob",
+  "weight":84,
+  "height":167,
+  "age":47
+  },
+  {
+  "name":"fred",
+  "weight":93,
+  "height":127,
+  "age":22
+  },
+  {
+  "name":"pip",
+  "weight":40,
+  "height":82,
+  "age":13
+  },
+  {
+  "name":"jack",
+  "weight":70,
+  "height":192,
+  "age":77
+  }
+  ]
+}
